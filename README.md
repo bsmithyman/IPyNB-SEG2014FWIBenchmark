@@ -2,6 +2,8 @@
 
 This notebook is designed to make it straightforward to get started with the 2014 full-waveform inversion (FWI) blind-test dataset provided by the [SEG][] and [Chevron][]. Please feel free to remix and redistribute this notebook, under the terms of the license.
 
+[View on IPython Notebook Viewer][VIEW]
+
 ## Requirements
 
 - `IPython` with notebook support
@@ -56,3 +58,5 @@ This IPython notebook is licensed under [Creative Commons Attribution-ShareAlike
 [CCLic]: http://creativecommons.org/licenses/by-sa/2.5/ca/
 [pygeo]: https://github.com/bsmithyman/pygeo
 [LGPL]: https://www.gnu.org/licenses/lgpl.html
+
+[VIEW]: http://nbviewer.ipython.org/github/bsmithyman/IPyNB-SEG2014FWIBenchmark/blob/master/SEG%202014%20Chevron%20Initial.ipynb
