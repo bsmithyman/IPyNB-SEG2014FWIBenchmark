@@ -1,3 +1,5 @@
 ChevronNotebook.webarchive
 *.pyc
-.ipyndb_checkpoints
+.ipynb_checkpoints
+ChevronNotebook.html
+ChevronNotebook_files
