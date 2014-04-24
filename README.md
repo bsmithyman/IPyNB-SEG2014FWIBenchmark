@@ -20,7 +20,7 @@ To run the notebook, unpack the dataset to the `data` subdirectory (or you may s
 
     ipython notebook
 
-To simplify installation on a Mac OS or Windows machine you may want to consider using [Enthought][]'s [Canopy][] distribution, which contains all of the required packages.
+To simplify installation on a Mac OS or Windows machine you may want to consider using [Enthought][]'s [Canopy][] distribution or [Continuum Analytics][]'s [Anaconda][] distribution, which contain all of the required packages.
 
 ## Static rendered versions
 
@@ -45,6 +45,8 @@ This IPython notebook is licensed under [Creative Commons Attribution-ShareAlike
 [Ubuntu]: http://www.ubuntu.com/
 [Enthought]: https://www.enthought.com/
 [Canopy]: https://www.enthought.com/products/canopy/
+[Continuum Analytics]: http://www.continuum.io/
+[Anaconda]: https://store.continuum.io/cshop/anaconda/
 
 [ArSafari]: https://www.dropbox.com/s/4mdpyx1n5cvjky0/ChevronNotebook.webarchive
 [ArChrome]: https://www.dropbox.com/s/7jjh77s88htxc7r/ChevronNotebook.tar.gz
