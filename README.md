@@ -24,10 +24,6 @@ To run the notebook, unpack the dataset to the `data` subdirectory (or you may s
 
 To simplify installation on a Mac OS or Windows machine you may want to consider using [Enthought][]'s [Canopy][] distribution or [Continuum Analytics][]'s [Anaconda][] distribution, which contain all of the required packages.
 
-## Static rendered versions
-
-[Safari WebArchive file][ArSafari] | [Chrome HTML complete][ArChrome] | 2014-04-24
-
 ## Notes
 
 This notebook should work on [Wakari][] with only minor modifications; you will need to remove the lines
